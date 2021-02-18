@@ -2,7 +2,8 @@
 
 This repository contains two different type of scrapping 
 # 1st Method using Beautifulsoup
-Using Beautifulsoup with the name of <b>Simple Scraper Using Python</b> that is completed by using a Jupyter Notebook, for this file you need to import three libararies by using the code below
+You can find the notebook with this name <b>Simple Scraper Using Python.ipynb</b>
+Using Beautifulsoup with the name of that is completed by using a Jupyter Notebook, for this file you need to import three libararies by using the code below
 "import requests"
 "from bs4 import BeautifulSoup"
 "import sqlite3"
@@ -13,7 +14,7 @@ This code will use SQLite database that is easy to use with python and Jupyter. 
 
 # 2st Method using scrapy spider
 
-You can find it in the folder name as  "amazonproductscraper"
+You can find it in the folder name as  <b>amazonproductscraper</b>
 This is very simple and fast method. Here we will use python library Scrapy that have many builtin functions.
 You can use the bellow code for importing the library of Scrapy
 "import scrapy"
